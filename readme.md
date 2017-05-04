@@ -2,6 +2,8 @@
 
 > The article component is different from other component in that is generally the primary element of the page. It can also contain components, such as content panels or videos.
 
+Launch [demo](https://timprodev.github.io/m-fed-article/ "Article Demp Page")
+
 ### UX Enhancements
 
 This article is an improvement from the earlier version for the following reasons (some of which are not yet live):
